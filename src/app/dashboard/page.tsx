@@ -762,7 +762,7 @@ export default function DashboardPage() {
             onClick={startNewConversation}
             className="w-full rounded-xl bg-gradient-to-r from-blue-600 to-blue-700 px-4 py-3 text-sm font-semibold text-white hover:from-blue-700 hover:to-blue-800 transition-all duration-200 shadow-md hover:shadow-lg transform hover:-translate-y-0.5"
           >
-            + New Project
+            + New Learning Path
           </button>
         </div>
         <div className="flex-1 overflow-y-auto p-3">
